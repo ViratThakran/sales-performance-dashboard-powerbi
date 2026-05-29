@@ -1,11 +1,11 @@
 # sales-performance-dashboard-powerbi
 Interactive Sales Dashboard built in Power BI using sales and order data to analyze revenue, profit, customer behavior, and business performance through dynamic visualizations and KPIs.
-# Gupta E-Commerce Sales Dashboard
+
 # Sales Performance Dashboard - Power BI
 
 Interactive Sales Dashboard built in Power BI to analyze revenue, profit, customer behavior, and business performance.
 
-![Dashboard Preview]
+![Dashboard Preview](dashboard-overview.png)
 ## Overview
 
 This project is an interactive Power BI dashboard designed to analyze and visualize e-commerce sales data. The dashboard helps stakeholders monitor revenue, profit, order quantity, customer performance, payment methods, and product category trends.
