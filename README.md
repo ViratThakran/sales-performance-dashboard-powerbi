@@ -15,7 +15,7 @@ This project is an interactive Power BI dashboard designed to analyze and visual
   
 # Gupta E-Commerce Sales Dashboard
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
+![Dashboard Preview]
 <img width="1399" height="793" alt="image" src="https://github.com/user-attachments/assets/6c9fe885-49e6-4432-9519-b871158930a6" />
 
 ## Dashboard Features
